@@ -1,1 +1,3 @@
-const product = 'Socks'
+const product = "Socks";
+
+const myName = "";
