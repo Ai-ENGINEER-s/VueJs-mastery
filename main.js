@@ -1,3 +1,3 @@
 const product = "Socks";
 
-const myName = "";
+const myName = "Sanoussa is good guy ";
